@@ -34,3 +34,11 @@ POEKING 경매사이트
 1. jenkins + docker 
 2. FE layout
 3. BE APIful Design
+
+20.02.04 
+인프라 새 구성
+FE 도커 빌드
+FE 서버 도커 이미지 pull 및 실행 완료
+BE 도커 빌드
+
+
