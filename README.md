@@ -33,7 +33,7 @@ POEKING 경매사이트
 
 1. jenkins + docker 
 2. FE layout
-3. BE APIful Design
+3. BE API restful Design
 
 20.02.04 
 
@@ -47,5 +47,5 @@ FE BE 도커 빌드 및 배포 완료
 
 todo 
  - FE layout
- - BE APIful Design
+ - BE API restful Design
 
