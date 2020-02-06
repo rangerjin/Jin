@@ -39,7 +39,7 @@ v-bind:key="toDoItem.id" style="display: flex;">
 <script>
 import axios from 'axios'; // 아까 받은 axios 패키지를 사용하기 위해 import한다
 
-let baseURL = 'http://127.0.0.1:8081/todo/';
+let baseURL = 'http://poeking-lb-887821775.ap-northeast-2.elb.amazonaws.com:5000/';
 export default {
   name: 'hello',
   data: () => {

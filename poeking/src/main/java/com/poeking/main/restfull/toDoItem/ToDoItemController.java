@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-@CrossOrigin("http://localhost:8080")
+@CrossOrigin("http://poeking-lb-887821775.ap-northeast-2.elb.amazonaws.com")
 @RestController
 @RequestMapping("/todo")
 public class ToDoItemController {
