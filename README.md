@@ -41,4 +41,11 @@ POEKING 경매사이트
 2. FE 도커 빌드 / FE 서버 도커 이미지 pull 및 실행 완료 (node, nginx)
 3. BE 도커 빌드
 
+20.02.06
+FE BE 도커 빌드 및 배포 완료
+ - FE Server nginx(froxy server) + docker(nginx)
+
+todo 
+ - FE layout
+ - BE APIful Design
 
