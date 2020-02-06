@@ -42,10 +42,10 @@ POEKING 경매사이트
 3. BE 도커 빌드
 
 20.02.06
-FE BE 도커 빌드 및 배포 완료
+1. FE BE 도커 빌드 및 배포 완료
  - FE Server nginx(froxy server) + docker(vue.js+nginx)
  - BE Server docker(springboot+tomcat/apache)
-todo 
+2. todo 
  - FE layout
  - BE API restful Design
 
